@@ -1,0 +1,9 @@
+line1
+line2
+line3
+<<<<<<< HEAD
+line four
+||||||| a5348f1
+=======
+line4
+>>>>>>> dev
